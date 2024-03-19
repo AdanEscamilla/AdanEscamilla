@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdanEscamilla
 - 👀 I’m interested in Web developing, Cibersecurity and Software developing
 - 🌱 I’m currently learning Web developing in Udemy and doing my professional intership in Samsung SDS México
-- 💞️ I’m looking to collaborate on anithing that i can learn and use my skills to practice
+- 💞️ I’m looking to collaborate on anything that i can learn and use my skills to practice
 - 📫 How to reach me. Email: adan.escamilla@uabc.edu.mx or mr.pooptart03@gmail.com
 
 <!---
